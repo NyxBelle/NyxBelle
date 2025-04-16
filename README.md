@@ -1,8 +1,8 @@
 # 👾 NyxBelle | Neural Interface Builder | AI Visionary in Training
 
-> This isn’t just code — it’s a dimensional gateway into how I think, learn, and create.
+> This isn’t just code, it’s a dimensional gateway into how I think, learn, and create.
 
-Welcome to my space on the internet — I’m **NyxBelle**, a Computer Science student blending **AI, design, and storytelling** into immersive experiences. I build future-inspired projects and tools that reflect both technical depth and creative imagination.
+Welcome to my space on the internet. I’m **NyxBelle**, a Computer Science student blending **AI, design, and storytelling** into immersive experiences. I build future-inspired projects and tools that reflect both technical depth and creative imagination.
 
 ---
 
